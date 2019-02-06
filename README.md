@@ -18,4 +18,5 @@ are only 12 recognized cards but will be adding more cards and models.
 * Squirtle
 * Torchic
 ```
-Reckognized cards can be located : Poke3d/Pokemon-Cards 
+Reckognized cards can be located : Poke3D/Poke3D/Assets.xcassets/Pokemon Cards.arresourcegroup/
+```
