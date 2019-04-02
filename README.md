@@ -21,4 +21,4 @@ are only 12 recognized cards but will be adding more cards and models. When a po
 ```
 Identified cards can be located at : Poke3D/Poke3D/Assets.xcassets/Pokemon Cards.arresourcegroup/
 ```
-![GitHub Logo](http://rigohernandez.me/images/portfolio/Poke3D.PNG)
+![GitHub Screenshot](http://rigohernandez.me/images/portfolio/Poke3D.PNG)
